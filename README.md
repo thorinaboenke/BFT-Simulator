@@ -1,3 +1,6 @@
+# FHTW BIC06 Bachelor Thesis
+BFT protocol Simulations
+
 # BFT Simulator
 A simulator for testing/verifying/benchmarking Byzantine Fault-Tolerant (BFT) protocols.
 
